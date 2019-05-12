@@ -1,5 +1,0 @@
-Hello !! This is new file file2.txt
-
-Add line before delete
-
-Added line after recovery
